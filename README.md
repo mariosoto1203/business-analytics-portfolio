@@ -1,6 +1,6 @@
 # business-analytics-portfolio
 Business analytics portfolio featuring Excel dashboards for HR, Finance, and Sales case studies.
-/closed-dynamics-cost-analysis/README.md
+closed-dynamics-cost-analysis/README.md
 # Closed Dynamics – Cost Analysis Dashboard
 
 ## Business Problem
